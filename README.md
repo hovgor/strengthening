@@ -1,0 +1,2 @@
+# strengthening
+Strengthening functions
